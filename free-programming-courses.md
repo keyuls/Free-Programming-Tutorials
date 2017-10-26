@@ -32,6 +32,12 @@
 - ### [Android - use SQLight to build a quiz game](http://bit.ly/2yNSGP9)
    Build a Trivia Quiz from scratch
 
+- ### [SQL Server Baby Step: Installation and Configuration](http://bit.ly/2yPOfn1)
+   An absolute beginner’s tutorial to quickly learn how to setup Microsoft SQL Server practice environment on your machine.
+
+- ### [Introduction to SQL Using TeamSQL](http://bit.ly/2zHmZpZ)
+   Learn the basics of SQL using TeamSQL
+
 ## Angular
 - ### [AngularJS For Beginners](http://bit.ly/2ljf1B5)
    Create Web Applications, Create Hybrid Apps for Android & iOS,Create single page applications 
@@ -71,7 +77,7 @@
 - ### [REST WCF Service in ASP.NET](http://bit.ly/2li0WUu)
    Learn how to build a RESTful WCF Service in an ASP.NET web application and call its methods with JQuery.
 
-## c#
+## C#
 ## C++
 - ### [Learn C++ Programming Mini Course - Power of Animation](http://bit.ly/2yO9rcL)
    A Programming Course in C++ language, great for beginners, that will teach you coding from scratch.
@@ -82,7 +88,20 @@
 - ### [Learn C++ by Creating](http://bit.ly/2yUkR11)
    Learn Programming Basics in C++ with a project based approach
 
+- ### [C++ Tutorial for Complete Beginners](http://bit.ly/2yN581n)
+   How to program in the popular (and tricky!) C++ programming language, for complete beginners.
+
+- ### [C++, Short and Sweet, Part 1](http://bit.ly/2lj1qd2)
+   A first course on C++ based on the book Accelerated C++.
+
+- ### [Learn to program Tic Tac Toe Game in Visual C++ on Windows](http://bit.ly/2lk45mq)
+   Build a complete Tic Tac Toe Game as Windows application with Visual studio 2015 / Visual C++ and Windows API
+
+
 ## C
+- ### [Learn Socket Programming in C from Scratch](http://bit.ly/2lj1nOo)
+   Master the socket programming concepts and start building networked applications in C programming language
+
 ## CSS
 - ### [Introduction to CSS Development](http://bit.ly/2zGtOI4)
    Cascading Style Sheets, or CSS, is how we control what a website looks like, including colors, layouts, fonts, and more!
@@ -169,6 +188,36 @@
 - ### [HTML5 and CSS3 for beginners: Create a Website from Scratch](http://bit.ly/2liNL5F)
    The easiest way to learn how to create a website with HTML5 and CSS3 from scratch with confidence.
 
+- ### [HTML & CSS: Build a Dashboard](http://bit.ly/2yOoDXu)
+   Great course to practice your html and css
+
+- ### [A Complete Introductory Tutorial on HTML5](http://bit.ly/2liqr83)
+   Gain a strong understanding of HTML and HTML5's new features with a teaser on CSS and JavaScript
+
+- ### [EMMET Faster HTML & CSS workflow - Best Tool For Developers ](http://bit.ly/2zGo94R)
+   Emmet is plugin for text editors that helps you write HTML and CSS faster. Work quicker saving time & making more money.
+
+- ### [Learn to code with HTML - Beginner to Expert](http://bit.ly/2lkjljd)
+   Learn and Understand HTML & HTML5 From a total Beginner to and Expert HTML Web Developer
+
+- ### [Create Website from scratch in Urdu & Hindi](http://bit.ly/2liNH5V)
+   Website layout in HTML and CSS
+
+- ### [HTML and CSS Foundations](http://bit.ly/2li0NQW)
+   A super quick introduction to HTML and CSS
+
+- ### [Learn HTML for Absolute Beginners](http://bit.ly/2yPo1AY)
+   Develop Your Own Website
+
+- ### [HTML and CSS: The Super Fun Beginner's Course](http://bit.ly/2li0Pbw)
+   The starting place for all the other HTML courses out there!
+
+- ### [HTML for beginners](http://bit.ly/2yP9AN4)
+   Learn HTML basics in 90 minutes
+
+- ### [Introductory To HTML - Create Your Very First Webpage.](http://bit.ly/2yPo13W)
+   Learn the basics of HTML and create your very first webpage with just HTML
+
 
 ## Ionic
 - ### [Create a CRUD Application with Ionic 3 and Firebase](http://bit.ly/2yUbsqf)
@@ -220,9 +269,6 @@
 - ### [Quick Course - Java interview preparation - for junior](http://bit.ly/2zG5jLk)
    Learn all the hard and soft skills you need to win a Java job interview!
 
-- ### [Creating End to End Tests With Cucumber & Selenium WebDriver](http://bit.ly/2yOSwa4)
-   Learn how to write automated end to end tests using Selenium WebDriver and Cucumbe in under an hour
-
 - ### [Java for Noobs](http://bit.ly/2yPMDcK)
    Beginners Guide to Programming in Java
 
@@ -231,6 +277,9 @@
 
 - ### [First Lesson to ZK Framework](http://bit.ly/2ljg9Vg)
    Understand the basics of ZK Java Web Framework and build your first Web GUI
+   
+- ### [First Steps in Java](http://bit.ly/2zGx7PB)
+   Get a good grasp on the basics of Java programming language: topics ranging from basic syntax to database operations
 
 ## javascript
 - ### [Learn to Program in Javascript: Beginner to Pro](http://bit.ly/2zGoch3)
@@ -258,10 +307,23 @@
 
 - ### [ES6 / EcmaScript 6 for beginners - the essentials](http://bit.ly/2yP9zbY)
    Update your Javascript skill set with ES6 also called EcmaScript 6 - The most important fundamentals you need are  here
+   
+ - ### [Code Your First Game: Arcade Classic in JavaScript on Canvas](http://bit.ly/2liLMhJ)
+   Program a complete game today. No special software or install required. All you need is a text editor and a web browser.
+
+- ### [JavaScript Essentials 2017 Mini Course](http://bit.ly/2yPnZZS)
+   Learn the basis of JavaScript, including programming fundamentals you can take to PHP, Python and Node.js
+
+- ### [Leveling up to ES6](http://bit.ly/2yP9Ag2)
+   Level up your javascript knowledge with the latest features provided in ES6
+
 
 ## Jquery
 - ### [Learn to Use jQuery UI Widgets](http://bit.ly/2yUbvCr)
    A jQuery UI Tutorial that will show you how to use tabs, accordion, datepicker and more without having to learn jQuery!
+
+- ### [Learn How to Build a Website with jQuery](http://bit.ly/2liNI9Z)
+   Learn jQuery in One Month
 
 ## Microsoft SQL
 ## MongoDB
@@ -282,7 +344,13 @@
 - ### [Node JS Training and Fundamentals](http://bit.ly/2ljeYVV)
    Node basics and fundamentals to make you ready to create any web app using express, jade and node modules.
 
-## objectiveC
+## Objective-C
+- ### [iOS Memory Game Objective-C XCode](http://bit.ly/2yPOeiX)
+   Develop a Memory Puzzle App for iOS with Objective-C
+
+- ### [iOS Sliding Puzzle Game Obj-C](http://bit.ly/2li8s1r)
+   Developing an iOS Slifing Puzzle Game with XCode and Objective-C
+
 ## Oracle SQL
 - ### [Beginning Oracle WebLogic for Administrators](http://bit.ly/2lkNhMo)
    Introductory course to Oracle WebLogic 12c. Learn how to download, install, and create WebLogic domains. 
@@ -326,6 +394,8 @@
 - ### [Practical Understanding of PHP and MySQL](http://bit.ly/2liND6b)
    Learn to understand the core of PHP and MySQL. Take the full course and Build a Database Web App
 
+- ### [Build CRUD Application - PHP & Mysql](http://bit.ly/2yPo0wU)
+   Create Todo list app with pagination
 
 
 
@@ -351,6 +421,23 @@
 
 - ### [Python Hand-on  Solve 200 Problems](http://bit.ly/2lj7JNK)
    Most Comprehensive Collection of Python Exerciser and Solution. Cover  from Fundamental to Algorithm and Data Analysis
+
+- ### [Learn Python, it's CAKE (Beginners)](http://bit.ly/2zGgnbr)
+   Python training for beginners who would like to write programs but don't have a clue how to write python code.
+
+- ### [Introduction To Python Programming](http://bit.ly/2zHz2U8)
+   A Quick and Easy Intro into Python Programming
+
+- ### [Python for Beginners with Examples](http://bit.ly/2ljd5Zc)
+   A practical Python course for beginners with examples and exercises.
+
+- ### [Django for WordPress Developers](http://bit.ly/2zHijQV)
+   Learn how to code in python and how to use Django while drawing parallels to WordPress
+
+- ### [Deep Learning Prerequisites: The Numpy Stack in Python](http://bit.ly/2lkWPXK)
+   The Numpy, Scipy, Pandas, and Matplotlib stack: prep for deep learning, machine learning, and artificial intelligence
+
+
 
 ## R
 - ### [R Programming For Absolute Beginners](http://bit.ly/2zIPO54)
@@ -403,6 +490,9 @@
 
 - ### [Understanding Docker and using it for Selenium automation](http://bit.ly/2zI0PnA)
    Learn docker and containers from complete ground up
+
+- ### [Creating End to End Tests With Cucumber & Selenium WebDriver](http://bit.ly/2yOSwa4)
+   Learn how to write automated end to end tests using Selenium WebDriver and Cucumbe in under an hour
 
 ## SQL Server
 ## SQL
@@ -497,8 +587,6 @@
 - ### [CSS Image filters - The modern web images color manipulation](http://bit.ly/2ljeYoT)
    Learn to manipulate your any type of Images with super CSS3 image filters to look your Images Super awesome !
 
-- ### [Code Your First Game: Arcade Classic in JavaScript on Canvas](http://bit.ly/2liLMhJ)
-   Program a complete game today. No special software or install required. All you need is a text editor and a web browser.
 
 
 
@@ -509,8 +597,6 @@
 - ### [MEAN Stack For Web Developers: Build Websites on Javascript](http://bit.ly/2zGo9BT)
    Use cutting edge tools to build fast, robust Javascript based web applications with MongoDB, Express, Angular and Node
 
-- ### [EMMET Faster HTML & CSS workflow - Best Tool For Developers ](http://bit.ly/2zGo94R)
-   Emmet is plugin for text editors that helps you write HTML and CSS faster. Work quicker saving time & making more money.
 
 - ### [Learn PHP 7 This Way to Rise Above & Beyond Competition!](http://bit.ly/2zGobcZ)
    This course is based on php manual! We cover namespaces, operators, types, variables, functions, OOP and many more!
@@ -533,52 +619,20 @@
 - ### [Setup OS X development environments ](http://bit.ly/2lj04is)
    This course covers the easiest way to setup multiple environment stacks. Such as Java, Ruby, DB's and more
 
-
-
-- ### [Learn to code with HTML - Beginner to Expert](http://bit.ly/2lkjljd)
-   Learn and Understand HTML & HTML5 From a total Beginner to and Expert HTML Web Developer
-
-
-
 - ### [Start 3D GIS Web Development in JavaScript](http://bit.ly/2ljh480)
    An easy way to deploy GIS 3D map to web with or without coding.
 
-
-- ### [Create Website from scratch in Urdu & Hindi](http://bit.ly/2liNH5V)
-   Website layout in HTML and CSS
-
-
-
-
-
-
 - ### [How to Start a WordPress Blog - Complete Beginners Guide!](http://bit.ly/2yP9zJ0)
    Create your own blog in 2017 and Start blogging today! No Code, No Html. Complete Drag n Drop Builder.
-
-
-
-
-
-- ### [HTML and CSS Foundations](http://bit.ly/2li0NQW)
-   A super quick introduction to HTML and CSS
-
-- ### [Learn HTML for Absolute Beginners](http://bit.ly/2yPo1AY)
-   Develop Your Own Website
-
 
 - ### [Mastering Basic CSS Selectors.](http://bit.ly/2liNCPF)
    Learn & Master the basics of CSS selectors in depth. part of CSSCasts course
 
 
-- ### [HTML and CSS: The Super Fun Beginner's Course](http://bit.ly/2li0Pbw)
-   The starting place for all the other HTML courses out there!
-
-- ### [Build CRUD Application - PHP & Mysql](http://bit.ly/2yPo0wU)
-   Create Todo list app with pagination
 
 
-- ### [HTML for beginners](http://bit.ly/2yP9AN4)
-   Learn HTML basics in 90 minutes
+
+
 
 - ### [CCNA MPLS Core technologies and MPLS Layer 3 VPNs: Exam prep](http://bit.ly/2li0UvQ)
    Prepare for CCNA, ICND2, CCNP or CCIE exams by learning about MPLS, VRFs, MBGP, Labels, redistribution, VPNV4, PHP +more
@@ -594,22 +648,16 @@
 - ### [From 0 to Twitter: Learn how to create the Web of Tomorrow](http://bit.ly/2li0SnI)
    Learn How to Build the Web of Tomorrow, using HTML and Javascript, with the Bootstrap and Meteor Frameworks, from zero.
 
-- ### [Introductory To HTML - Create Your Very First Webpage.](http://bit.ly/2yPo13W)
-   Learn the basics of HTML and create your very first webpage with just HTML
 
 
 - ### [Getting Started with TypeScript // A Javascript Compiler](http://bit.ly/2li0O7s)
    Learn the Technology behind the Microsoft-created Javascript Compiler
 
 
-- ### [Learn How to Build a Website with jQuery](http://bit.ly/2liNI9Z)
-   Learn jQuery in One Month
 
 - ### [Amazon Web Services (AWS) - Zero to Hero](http://bit.ly/2liNG1R)
    Beginners, learn AWS by using it. AWS EC2 web server, AWS NodeJS Server, AWS RDS database server, S3, SES & CloudWatch.
 
-- ### [JavaScript Essentials 2017 Mini Course](http://bit.ly/2yPnZZS)
-   Learn the basis of JavaScript, including programming fundamentals you can take to PHP, Python and Node.js
 
 - ### [NodeJS CI/CD with AWS CodePipeline and Mocha - Zero to Hero](http://bit.ly/2li0RAa)
    AWS Continuous Integration and Delivery CI/CD for NodeJS using AWS CodePipeline, AWS Elastic Beanstalk and Mocha.
@@ -617,14 +665,7 @@
 - ### [Bootstrap 4: Create a landing page](http://bit.ly/2yP9yEW)
    Learn Bootstrap 4 by creating a unique responsive landing page with custom CSS, icons, web fonts and smooth scrolling.
 
-- ### [Leveling up to ES6](http://bit.ly/2yP9Ag2)
-   Level up your javascript knowledge with the latest features provided in ES6
 
-- ### [HTML & CSS: Build a Dashboard](http://bit.ly/2yOoDXu)
-   Great course to practice your html and css
-
-- ### [A Complete Introductory Tutorial on HTML5](http://bit.ly/2liqr83)
-   Gain a strong understanding of HTML and HTML5's new features with a teaser on CSS and JavaScript
 
 - ### [PHP & MYSQLi Complete Guide for Beginners](http://bit.ly/2yPOezt)
    PHP & MYSQLi Complete Course
@@ -664,11 +705,6 @@
    Create your own awesome 3D map app in such an easy way!
 
 
-- ### [iOS Memory Game Objective-C XCode](http://bit.ly/2yPOeiX)
-   Develop a Memory Puzzle App for iOS with Objective-C
-
-- ### [iOS Sliding Puzzle Game Obj-C](http://bit.ly/2li8s1r)
-   Developing an iOS Slifing Puzzle Game with XCode and Objective-C
 
 
 
@@ -691,11 +727,6 @@
 - ### [Build and Deploy a LAMP server on AWS](http://bit.ly/2lk41Dc)
    Build your own webserver and deploy a website within one hour on AWS
 
-- ### [SQL Server Baby Step: Installation and Configuration](http://bit.ly/2yPOfn1)
-   An absolute beginner’s tutorial to quickly learn how to setup Microsoft SQL Server practice environment on your machine.
-
-- ### [Introduction to SQL Using TeamSQL](http://bit.ly/2zHmZpZ)
-   Learn the basics of SQL using TeamSQL
 
 - ### [Selenium WebDriver Training with Java Basics](http://bit.ly/2yUQHun)
    A short and simple course to get started with Selenium automation and learn basics of other integrated APIs
@@ -704,14 +735,6 @@
    Includes everything you will need to fully prepare for your new CCNA R/S certification
 
 
-- ### [C++ Tutorial for Complete Beginners](http://bit.ly/2yN581n)
-   How to program in the popular (and tricky!) C++ programming language, for complete beginners.
-
-- ### [Learn Python, it's CAKE (Beginners)](http://bit.ly/2zGgnbr)
-   Python training for beginners who would like to write programs but don't have a clue how to write python code.
-
-- ### [C++, Short and Sweet, Part 1](http://bit.ly/2lj1qd2)
-   A first course on C++ based on the book Accelerated C++.
 
 - ### [Information Retrieval and Mining Massive Data Sets](http://bit.ly/2lk42ae)
    Learn various techniques to build a Google scale Information Retrieval System.
@@ -734,8 +757,6 @@
 - ### [Decoding AP Computer Science A](http://bit.ly/2lkNgbi)
    Ace AP Computer Science A and get an Introduction to Java
 
-- ### [Introduction To Python Programming](http://bit.ly/2zHz2U8)
-   A Quick and Easy Intro into Python Programming
 
 
 - ### [R, ggplot, and Simple Linear Regression](http://bit.ly/2yPa0TE)
@@ -753,14 +774,10 @@
 - ### [Batting Location Charts with Vagrant and MySQL](http://bit.ly/2ljdTxc)
    Use R and MySQL together to create batting location charts from large data sets.
 
-- ### [Python for Beginners with Examples](http://bit.ly/2ljd5Zc)
-   A practical Python course for beginners with examples and exercises.
 
 
 
 
-- ### [Learn Socket Programming in C from Scratch](http://bit.ly/2lj1nOo)
-   Master the socket programming concepts and start building networked applications in C programming language
 
 
 
@@ -770,23 +787,15 @@
 - ### [Data Structures in Java for Noobs (Lite Edition)](http://bit.ly/2yPOfU3)
    Data Structures Made Simple With Step by Step Instructions and Diagrams
 
-- ### [Learn to program Tic Tac Toe Game in Visual C++ on Windows](http://bit.ly/2lk45mq)
-   Build a complete Tic Tac Toe Game as Windows application with Visual studio 2015 / Visual C++ and Windows API
-
 
 - ### [API and Database Testing with Specflow and C#](http://bit.ly/2yV1STO)
    Understanding and building API and database testing from groundup
 
 
 
-- ### [Django for WordPress Developers](http://bit.ly/2zHijQV)
-   Learn how to code in python and how to use Django while drawing parallels to WordPress
-
-- ### [Crash Course Into JavaFX: The Best Way to make GUI Apps](http://bit.ly/2lkuD75)
+ ### [Crash Course Into JavaFX: The Best Way to make GUI Apps](http://bit.ly/2lkuD75)
    Learn how to create responsive GUI applications using the most popular Java GUI tookit, and explore the basics of JavaFX
 
-- ### [Deep Learning Prerequisites: The Numpy Stack in Python](http://bit.ly/2lkWPXK)
-   The Numpy, Scipy, Pandas, and Matplotlib stack: prep for deep learning, machine learning, and artificial intelligence
 
 
 
@@ -797,8 +806,7 @@
    Learn test automation in an afternoon without any need for programming
 
 
-- ### [First Steps in Java](http://bit.ly/2zGx7PB)
-   Get a good grasp on the basics of Java programming language: topics ranging from basic syntax to database operations
+
 
 - ### [FREE PREVIEW: Learn to Code with Games in C# and Unity](http://bit.ly/2zG9MxC)
    Create the games of your dreams in C# and Unity through engaging, hands-on learning
@@ -822,11 +830,8 @@
    Learn CCNA R&S course by practical scenarios
 
 
-
 - ### [HDPCD:Spark using Python (pyspark)](http://bit.ly/2zG9Kpu)
    Prepare for Hortonworks HDP Certified Developer - Spark using Python as programming language
-
-
 
 - ### [Apache Spark with Scala - Mastering Big Data!](http://bit.ly/2yOBf0V)
    Learn analyzing big data with Apache Spark and Scala by 12+ hands-on examples
