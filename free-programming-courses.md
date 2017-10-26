@@ -60,7 +60,10 @@
 - ### [Angular CLI - Mastering the Basics](http://bit.ly/2li0W6W)
    For Beginners
 
-## applewatch
+## Apple watch
+- ### [Swift by Example; Make Apple Watch Apps with Apple Watchkit](http://bit.ly/2yS34Yc)
+   Together we'll learn Apple's new cutting-edge programming language while building some useful Apple Watch applications!
+
 ## ASP.Net
 - ### [ASP.Net Live Project](http://bit.ly/2zGtQja)
    RealTime End To End Implementation
@@ -69,20 +72,30 @@
    Learn how to build a RESTful WCF Service in an ASP.NET web application and call its methods with JQuery.
 
 ## c#
-## c++
+## C++
 - ### [Learn C++ Programming Mini Course - Power of Animation](http://bit.ly/2yO9rcL)
    A Programming Course in C++ language, great for beginners, that will teach you coding from scratch.
 
+- ### [Beginning C++ Templates](http://bit.ly/2lijC6l)
+   Understand templates in depth & create generic algorithms and classes.
+
+- ### [Learn C++ by Creating](http://bit.ly/2yUkR11)
+   Learn Programming Basics in C++ with a project based approach
 
 ## C
 ## CSS
 - ### [Introduction to CSS Development](http://bit.ly/2zGtOI4)
    Cascading Style Sheets, or CSS, is how we control what a website looks like, including colors, layouts, fonts, and more!
 
+- ### [Mastering CSS 3.0 Selectors](http://bit.ly/2li0TIi)
+   Empowering your development and design through CSS 3.0 Selectors
 
-## data structure
+## Data structure
 - ### [Data Structure - Part I](http://bit.ly/2yNTeob)
    Design, implementation and analysis of basic data structures using Java language.
+
+- ### [Learn Data Structure & Algorithms with Java - Interview](http://bit.ly/2lijyU9)
+   Learn Data Structure & Algorithms from absolute scratch. Note: New videos will be added every weekend.
 
 ## HTML
 - ### [Introduction to HTML](http://bit.ly/2yQNKcp)
@@ -207,6 +220,17 @@
 - ### [Quick Course - Java interview preparation - for junior](http://bit.ly/2zG5jLk)
    Learn all the hard and soft skills you need to win a Java job interview!
 
+- ### [Creating End to End Tests With Cucumber & Selenium WebDriver](http://bit.ly/2yOSwa4)
+   Learn how to write automated end to end tests using Selenium WebDriver and Cucumbe in under an hour
+
+- ### [Java for Noobs](http://bit.ly/2yPMDcK)
+   Beginners Guide to Programming in Java
+
+- ### [Java Programming Basics](http://bit.ly/2lj1qty)
+   Learn to program! Let's walk through some simple examples and I'll explain everything along the way.
+
+- ### [First Lesson to ZK Framework](http://bit.ly/2ljg9Vg)
+   Understand the basics of ZK Java Web Framework and build your first Web GUI
 
 ## javascript
 - ### [Learn to Program in Javascript: Beginner to Pro](http://bit.ly/2zGoch3)
@@ -241,13 +265,33 @@
 
 ## Microsoft SQL
 ## MongoDB
+- ### [MongooseJS Essentials - Learn MongoDB for Node.js](http://bit.ly/2yPEqVY)
+   Learn how to create Mongoose Schemas to build a full CRUD application based on the MongoDB database design.
+
+- ### [MongoDB and Python: Quick start](http://bit.ly/2zG9NBG)
+   Up and running with mongoengine
+
+- ### [MongoDB Essentials - Understand the Basics of MongoDB](http://bit.ly/2lj1olq)
+   An introduction and overview of MongoDB as a NoSQL database solution.
+   
 ## MySQL
+- ### [Java Database Connection: JDBC and MySQL](http://bit.ly/2yPoyms)
+   Learn how to connect to a MySQL database with Java JDBC
+
 ## NodeJs
 - ### [Node JS Training and Fundamentals](http://bit.ly/2ljeYVV)
    Node basics and fundamentals to make you ready to create any web app using express, jade and node modules.
 
 ## objectiveC
 ## Oracle SQL
+- ### [Beginning Oracle WebLogic for Administrators](http://bit.ly/2lkNhMo)
+   Introductory course to Oracle WebLogic 12c. Learn how to download, install, and create WebLogic domains. 
+
+- ### [Oracle SQL Developer : Tips and Tricks](http://bit.ly/2ljqArH)
+   Learn how to use Oracle SQL Developer and take advantage of its most useful features. Use it smartly.
+
+
+
 ## PHP
 - ### [PHP Development](http://bit.ly/2ySxDNr)
    No prerequisite skills, but buckle up and prepare to develop!  Covering many aspects of PHP.  
@@ -276,12 +320,37 @@
 - ### [Learn PHP Fundamentals From Scratch](http://bit.ly/2zGtRUg)
    A Short Course on PHP Basics
 
+- ### [Learn Object Oriented PHP By Building a Complete Website](http://bit.ly/2lipzjN)
+   Quick and Easy Guide to Master OOPs in PHP
+
+- ### [Practical Understanding of PHP and MySQL](http://bit.ly/2liND6b)
+   Learn to understand the core of PHP and MySQL. Take the full course and Build a Database Web App
+
 
 
 
 ## python
 - ### [Python - Learn how to read write and manipulate Excel files](http://bit.ly/2lkvmoP)
    For Beginners - Openpyxl Training in Python. Work with Spreadsheets with ease and Automate your daily work and relax.
+
+- ### [Interactive Programming in Python](http://bit.ly/2zIM9nU)
+   A Python Practical Programming Course for Absolute Beginners - Learn how to Code in Python and Improve your Productivity
+
+- ### [Python Game Development : Creating a Snake Game from scratch](http://bit.ly/2yOBfOt)
+   Learn and Create a Snake game with Pygame in Python under 2 Hours!
+
+- ### [Programming with Python: Hands-On Introduction for Beginners](http://bit.ly/2yOBeKp)
+   Eliminate roadblocks to learn programming: Start writing your own programs in Python 3 from scratch
+
+- ### [The Top 5 Machine Learning Libraries in Python](http://bit.ly/2zHNiMF)
+   A Gentle Introduction to the Top Python Libraries used in Applied Machine Learning
+
+- ### [The Four Pillars of OOP in Python 3 for Beginners](http://bit.ly/2zGzcey)
+   Learn Object oriented programming concepts of Classes, Objects, Abstraction, Encapsulation, Inheritance and Polymorphism
+
+
+- ### [Python Hand-on  Solve 200 Problems](http://bit.ly/2lj7JNK)
+   Most Comprehensive Collection of Python Exerciser and Solution. Cover  from Fundamental to Algorithm and Data Analysis
 
 ## R
 - ### [R Programming For Absolute Beginners](http://bit.ly/2zIPO54)
@@ -313,9 +382,27 @@
 
 
 ## scala
+- ### [Stairway to Scala - Setup Instructions](http://bit.ly/2li3GRM)
+   Set up environment and developer tools for enrolling in the Stairway to Scala training
+
+- ### [HDPCD:Spark using Scala](http://bit.ly/2ljpso0)
+   Prepare for Hortonworks HDP Certified Developer - Spark using Scala as programming language
+
+
+
+
 ## Selenium
 - ### [Selenium with C# and Java Titbits](http://bit.ly/2yPOhv9)
    Understand selenium basics which you really need
+
+- ### [Cucumber with Selenium Java (Basic)](http://bit.ly/2zG9N4E)
+   Learn the ABC of cucumber and integrating it with Selenium
+
+- ### [Selenium WebDriver with C# for Beginners + Live Testing Site](http://bit.ly/2yON7ji)
+   Selenium is the most popular tool to test websites! Join me and thousands of students to learn Selenium Webdriver!
+
+- ### [Understanding Docker and using it for Selenium automation](http://bit.ly/2zI0PnA)
+   Learn docker and containers from complete ground up
 
 ## SQL Server
 ## SQL
@@ -329,12 +416,64 @@
 - ### [iOS Game Development in Swift 2](http://bit.ly/2lkjSSf)
    Learn to create a 'tripeak solitaire' card game
 
-## unite testing
+- ### [Swift for Beginners, Learn Apple's New Programming Language](http://bit.ly/2lkNgIk)
+   Learn Swift, Apple’s new programming language, to create iOS and OS X apps
+
+- ### [How To Make An App with No Programming Experience (2017)](http://bit.ly/2lj1PMA)
+   Designed for the complete beginner, learn how to build iPhone apps with Swift 3, Xcode 8 and iOS 10 one step at a time.
+
+
+- ### [iOS9 Apple Watch Toolkit: Make Real Apps From Scratch](http://bit.ly/2li3BNP)
+   Learn to Create iOS9 Apple Watch Apps using Swift. From Idea to App Store. No Experience Needed. Tips & Tricks inside.
+
+- ### [Learn the Swift Programming Language for Beginners](http://bit.ly/2lj1oSs)
+   Learn Apple's Newest Programming Language - Swift 1.2. Understand How Swift Code Works by Clear and Concise Examples.
+
+
+- ### [Swift 3 & Xcode 8 in 1 hour](http://bit.ly/2yP27hb)
+   Learn Swift 3 and Xcode 8 by creating a simple game called MyPokemons
+
+- ### [Introduction to Sprite Kit with Swift 3](http://bit.ly/2lk43Lk)
+   Learn the basics of game development using Xcode
+
+- ### [Swift 3 - Create A Simple iOS Game](http://bit.ly/2yUSnnF)
+   A Complete Guide to Creating a Simple Swift 3 iOS Game
+
+- ### [Basic Swift 3 Programming](http://bit.ly/2lk41TI)
+   Learn to Code in Swift 3 and make basic iOS Apps.
+
+- ### [Learn Swift Programming for Beginners (Updated 2017)](http://bit.ly/2lk43ei)
+   Learn Swift programming for absolute beginners!
+
+- ### [Basic Swift 4 and iOS 11 - Free Preview](http://bit.ly/2yOgNNt)
+   Learn iOS 11 and Swift 4 & become an app entrepreneur!
+
+- ### [The Complete Swift 4 Bootcamp](http://bit.ly/2zHvQIj)
+   Learn all the basics of Swift and get started making iOS and Apple Watch Applications!
+
+- ### [Introduction to iOS 11 Development: Swift 4 and Xcode 9](http://bit.ly/2yPOiiH)
+   Learn the basics of iOS 11 Development in this free course! We'll cover swift and make 2 complete applications!
+
+- ### [iOS App Development For Beginners - No Swift Skill Required](http://bit.ly/2lkigYL)
+   Develop a complete app without writing a single line of code - iOS 11 and Xcode 9
+
+- ### [Swift Programming For Beginners - No Programming Experience](http://bit.ly/2yPv38A)
+   Learn Swift for iPhone iOS development, no programming development experience is required. Swift for complete beginners
+
+## Unit Testing
+- ### [JUnit Tutorial for Beginners - Learn Java Unit Testing](http://bit.ly/2yP8MIe)
+   JUnit tutorial for Beginners with examples
+
 ## Xamarin
+- ### [Xamarin Native iOS Memory Game C#](http://bit.ly/2y6vUoF)
+   Programming Native iOS Programming with Xamarin and C#
+
+- ### [Xamarin Android Sliding Puzzle C#](http://bit.ly/2lj1nxS)
+   Native Android App with Xamarin and C#
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -394,15 +533,11 @@
 - ### [Setup OS X development environments ](http://bit.ly/2lj04is)
    This course covers the easiest way to setup multiple environment stacks. Such as Java, Ruby, DB's and more
 
-- ### [MongooseJS Essentials - Learn MongoDB for Node.js](http://bit.ly/2yPEqVY)
-   Learn how to create Mongoose Schemas to build a full CRUD application based on the MongoDB database design.
 
 
 - ### [Learn to code with HTML - Beginner to Expert](http://bit.ly/2lkjljd)
    Learn and Understand HTML & HTML5 From a total Beginner to and Expert HTML Web Developer
 
-- ### [Learn Object Oriented PHP By Building a Complete Website](http://bit.ly/2lipzjN)
-   Quick and Easy Guide to Master OOPs in PHP
 
 
 - ### [Start 3D GIS Web Development in JavaScript](http://bit.ly/2ljh480)
@@ -415,9 +550,6 @@
 
 
 
-- ### [Practical Understanding of PHP and MySQL](http://bit.ly/2liND6b)
-   Learn to understand the core of PHP and MySQL. Take the full course and Build a Database Web App
-
 
 
 - ### [How to Start a WordPress Blog - Complete Beginners Guide!](http://bit.ly/2yP9zJ0)
@@ -426,8 +558,6 @@
 
 
 
-- ### [Mastering CSS 3.0 Selectors](http://bit.ly/2li0TIi)
-   Empowering your development and design through CSS 3.0 Selectors
 
 - ### [HTML and CSS Foundations](http://bit.ly/2li0NQW)
    A super quick introduction to HTML and CSS
@@ -513,26 +643,13 @@
 - ### [Create iPhone Apps from Scratch with iOS7 – Starter Course](http://bit.ly/2yOgYZ9)
    Use a Mac or PC to create your first iPhone app using Xcode 5. No programming experience required to learn Objective C
 
-- ### [Swift by Example; Make Apple Watch Apps with Apple Watchkit](http://bit.ly/2yS34Yc)
-   Together we'll learn Apple's new cutting-edge programming language while building some useful Apple Watch applications!
 
 
-- ### [Swift for Beginners, Learn Apple's New Programming Language](http://bit.ly/2lkNgIk)
-   Learn Swift, Apple’s new programming language, to create iOS and OS X apps
 
 - ### [Livecode : One code to rule them all](http://bit.ly/2yPPKBF)
    The Write Once, Deploy Anywhere myth can finally be a reality with Livecode. Develop for Mac, Win, Linux, iOS, Android
 
-- ### [How To Make An App with No Programming Experience (2017)](http://bit.ly/2lj1PMA)
-   Designed for the complete beginner, learn how to build iPhone apps with Swift 3, Xcode 8 and iOS 10 one step at a time.
 
-
-- ### [iOS9 Apple Watch Toolkit: Make Real Apps From Scratch](http://bit.ly/2li3BNP)
-   Learn to Create iOS9 Apple Watch Apps using Swift. From Idea to App Store. No Experience Needed. Tips & Tricks inside.
-
-
-- ### [Learn the Swift Programming Language for Beginners](http://bit.ly/2lj1oSs)
-   Learn Apple's Newest Programming Language - Swift 1.2. Understand How Swift Code Works by Clear and Concise Examples.
 
 - ### [Rapid Prototyping with Ionic: Build a Data-Driven Mobile App](http://bit.ly/2lgHI1k)
    Retrieve data from multiple API's; d3js charting, caching, databasing, RSS feeds, notes, (un)follow functionalities.
@@ -541,18 +658,11 @@
 - ### [Kivy with Python : Build 15 Simple Project With Kivy](http://bit.ly/2yPOgr5)
    Build 15 Project With Kivy .. To Develope Your Own Android Application Easily
 
-- ### [Swift 3 & Xcode 8 in 1 hour](http://bit.ly/2yP27hb)
-   Learn Swift 3 and Xcode 8 by creating a simple game called MyPokemons
 
 
 - ### [Start 3D GIS iOS App Development in Objective C](http://bit.ly/2yOlQO0)
    Create your own awesome 3D map app in such an easy way!
 
-- ### [Introduction to Sprite Kit with Swift 3](http://bit.ly/2lk43Lk)
-   Learn the basics of game development using Xcode
-
-- ### [Swift 3 - Create A Simple iOS Game](http://bit.ly/2yUSnnF)
-   A Complete Guide to Creating a Simple Swift 3 iOS Game
 
 - ### [iOS Memory Game Objective-C XCode](http://bit.ly/2yPOeiX)
    Develop a Memory Puzzle App for iOS with Objective-C
@@ -560,35 +670,12 @@
 - ### [iOS Sliding Puzzle Game Obj-C](http://bit.ly/2li8s1r)
    Developing an iOS Slifing Puzzle Game with XCode and Objective-C
 
-- ### [Xamarin Native iOS Memory Game C#](http://bit.ly/2y6vUoF)
-   Programming Native iOS Programming with Xamarin and C#
 
-- ### [Basic Swift 3 Programming](http://bit.ly/2lk41TI)
-   Learn to Code in Swift 3 and make basic iOS Apps.
 
-- ### [Xamarin Android Sliding Puzzle C#](http://bit.ly/2lj1nxS)
-   Native Android App with Xamarin and C#
 
 - ### [Clarity of Purpose--Don't Live Life Without It](http://bit.ly/2ljhLhR)
    An Introductory Course to a Proven Process for Clarifying Your Life Purpose
 
-- ### [Learn Swift Programming for Beginners (Updated 2017)](http://bit.ly/2lk43ei)
-   Learn Swift programming for absolute beginners!
-
-- ### [Basic Swift 4 and iOS 11 - Free Preview](http://bit.ly/2yOgNNt)
-   Learn iOS 11 and Swift 4 & become an app entrepreneur!
-
-- ### [The Complete Swift 4 Bootcamp](http://bit.ly/2zHvQIj)
-   Learn all the basics of Swift and get started making iOS and Apple Watch Applications!
-
-- ### [Introduction to iOS 11 Development: Swift 4 and Xcode 9](http://bit.ly/2yPOiiH)
-   Learn the basics of iOS 11 Development in this free course! We'll cover swift and make 2 complete applications!
-
-- ### [iOS App Development For Beginners - No Swift Skill Required](http://bit.ly/2lkigYL)
-   Develop a complete app without writing a single line of code - iOS 11 and Xcode 9
-
-- ### [Swift Programming For Beginners - No Programming Experience](http://bit.ly/2yPv38A)
-   Learn Swift for iPhone iOS development, no programming development experience is required. Swift for complete beginners
 
 - ### [Learn Android Application Development](http://bit.ly/2lguIJb)
    A beginner course on Android Application development
@@ -599,17 +686,7 @@
 - ### [Learning Apache Hadoop EcoSystem- Hive](http://bit.ly/2yO22dt)
    Learn Apache Hive and Start working with SQL queries which is on Data which is in Hadoop
 
-- ### [Java Database Connection: JDBC and MySQL](http://bit.ly/2yPoyms)
-   Learn how to connect to a MySQL database with Java JDBC
 
-- ### [Beginning Oracle WebLogic for Administrators](http://bit.ly/2lkNhMo)
-   Introductory course to Oracle WebLogic 12c. Learn how to download, install, and create WebLogic domains. 
-
-- ### [Oracle SQL Developer : Tips and Tricks](http://bit.ly/2ljqArH)
-   Learn how to use Oracle SQL Developer and take advantage of its most useful features. Use it smartly.
-
-- ### [MongoDB Essentials - Understand the Basics of MongoDB](http://bit.ly/2lj1olq)
-   An introduction and overview of MongoDB as a NoSQL database solution.
 
 - ### [Build and Deploy a LAMP server on AWS](http://bit.ly/2lk41Dc)
    Build your own webserver and deploy a website within one hour on AWS
@@ -661,9 +738,6 @@
    A Quick and Easy Intro into Python Programming
 
 
-- ### [Louisiana's Birth to Five ELDS](http://bit.ly/2yPutHW)
-   A Closer Look at Louisiana's Birth to Five Early Learning and Development Standards
-
 - ### [R, ggplot, and Simple Linear Regression](http://bit.ly/2yPa0TE)
    Begin to use R and ggplot while learning the basics of linear regression
 
@@ -682,26 +756,12 @@
 - ### [Python for Beginners with Examples](http://bit.ly/2ljd5Zc)
    A practical Python course for beginners with examples and exercises.
 
-- ### [Java for Noobs](http://bit.ly/2yPMDcK)
-   Beginners Guide to Programming in Java
 
-- ### [Louisiana's Licensing Regulations (Bulletin 137) - Course 4](http://bit.ly/2liO0xB)
-   Understanding Chapters 19 and 21
 
-- ### [Java Programming Basics](http://bit.ly/2lj1qty)
-   Learn to program! Let's walk through some simple examples and I'll explain everything along the way.
-
-- ### [Stairway to Scala - Setup Instructions](http://bit.ly/2li3GRM)
-   Set up environment and developer tools for enrolling in the Stairway to Scala training
-
-- ### [First Lesson to ZK Framework](http://bit.ly/2ljg9Vg)
-   Understand the basics of ZK Java Web Framework and build your first Web GUI
 
 - ### [Learn Socket Programming in C from Scratch](http://bit.ly/2lj1nOo)
    Master the socket programming concepts and start building networked applications in C programming language
 
-- ### [JUnit Tutorial for Beginners - Learn Java Unit Testing](http://bit.ly/2yP8MIe)
-   JUnit tutorial for Beginners with examples
 
 
 - ### [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](http://bit.ly/2yQzjVx)
@@ -713,18 +773,11 @@
 - ### [Learn to program Tic Tac Toe Game in Visual C++ on Windows](http://bit.ly/2lk45mq)
    Build a complete Tic Tac Toe Game as Windows application with Visual studio 2015 / Visual C++ and Windows API
 
-- ### [Selenium WebDriver with C# for Beginners + Live Testing Site](http://bit.ly/2yON7ji)
-   Selenium is the most popular tool to test websites! Join me and thousands of students to learn Selenium Webdriver!
 
 - ### [API and Database Testing with Specflow and C#](http://bit.ly/2yV1STO)
    Understanding and building API and database testing from groundup
 
 
-- ### [HDPCD:Spark using Scala](http://bit.ly/2ljpso0)
-   Prepare for Hortonworks HDP Certified Developer - Spark using Scala as programming language
-
-- ### [Understanding Docker and using it for Selenium automation](http://bit.ly/2zI0PnA)
-   Learn docker and containers from complete ground up
 
 - ### [Django for WordPress Developers](http://bit.ly/2zHijQV)
    Learn how to code in python and how to use Django while drawing parallels to WordPress
@@ -735,11 +788,7 @@
 - ### [Deep Learning Prerequisites: The Numpy Stack in Python](http://bit.ly/2lkWPXK)
    The Numpy, Scipy, Pandas, and Matplotlib stack: prep for deep learning, machine learning, and artificial intelligence
 
-- ### [Cucumber with Selenium Java (Basic)](http://bit.ly/2zG9N4E)
-   Learn the ABC of cucumber and integrating it with Selenium
 
-- ### [Learn C++ by Creating](http://bit.ly/2yUkR11)
-   Learn Programming Basics in C++ with a project based approach
 
 - ### [What's New in C# 6, C# 7 and Visual Studio 2017](http://bit.ly/2ySIHtX)
    Learn new features of C# 6, C# 7 and Visual Studio 2017 on practical examples
@@ -747,8 +796,6 @@
 - ### [Learn Test Automation with Boozang](http://bit.ly/2yV0wsf)
    Learn test automation in an afternoon without any need for programming
 
-- ### [Creating End to End Tests With Cucumber & Selenium WebDriver](http://bit.ly/2yOSwa4)
-   Learn how to write automated end to end tests using Selenium WebDriver and Cucumbe in under an hour
 
 - ### [First Steps in Java](http://bit.ly/2zGx7PB)
    Get a good grasp on the basics of Java programming language: topics ranging from basic syntax to database operations
@@ -756,24 +803,8 @@
 - ### [FREE PREVIEW: Learn to Code with Games in C# and Unity](http://bit.ly/2zG9MxC)
    Create the games of your dreams in C# and Unity through engaging, hands-on learning
 
-- ### [Interactive Programming in Python](http://bit.ly/2zIM9nU)
-   A Python Practical Programming Course for Absolute Beginners - Learn how to Code in Python and Improve your Productivity
-
-- ### [Python Game Development : Creating a Snake Game from scratch](http://bit.ly/2yOBfOt)
-   Learn and Create a Snake game with Pygame in Python under 2 Hours!
-
-- ### [Programming with Python: Hands-On Introduction for Beginners](http://bit.ly/2yOBeKp)
-   Eliminate roadblocks to learn programming: Start writing your own programs in Python 3 from scratch
 
 
-- ### [Beginning C++ Templates](http://bit.ly/2lijC6l)
-   Understand templates in depth & create generic algorithms and classes.
-
-- ### [The Top 5 Machine Learning Libraries in Python](http://bit.ly/2zHNiMF)
-   A Gentle Introduction to the Top Python Libraries used in Applied Machine Learning
-
-- ### [The Four Pillars of OOP in Python 3 for Beginners](http://bit.ly/2zGzcey)
-   Learn Object oriented programming concepts of Classes, Objects, Abstraction, Encapsulation, Inheritance and Polymorphism
 
 
 
@@ -786,17 +817,11 @@
 - ### [Learn Data Science With R Part 1 of 10](http://bit.ly/2ljeBut)
    Data Science with R Basics
 
-- ### [Learn Data Structure & Algorithms with Java - Interview](http://bit.ly/2lijyU9)
-   Learn Data Structure & Algorithms from absolute scratch. Note: New videos will be added every weekend.
 
 - ### [CCNA R&S Labs: Learn by Scenarios](http://bit.ly/2lijzaF)
    Learn CCNA R&S course by practical scenarios
 
-- ### [Python Hand-on  Solve 200 Problems](http://bit.ly/2lj7JNK)
-   Most Comprehensive Collection of Python Exerciser and Solution. Cover  from Fundamental to Algorithm and Data Analysis
 
-- ### [MongoDB and Python: Quick start](http://bit.ly/2zG9NBG)
-   Up and running with mongoengine
 
 - ### [HDPCD:Spark using Python (pyspark)](http://bit.ly/2zG9Kpu)
    Prepare for Hortonworks HDP Certified Developer - Spark using Python as programming language
