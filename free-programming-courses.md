@@ -32,11 +32,10 @@
 - ### [Android - use SQLight to build a quiz game](http://bit.ly/2yNSGP9)
    Build a Trivia Quiz from scratch
 
-- ### [SQL Server Baby Step: Installation and Configuration](http://bit.ly/2yPOfn1)
-   An absolute beginner’s tutorial to quickly learn how to setup Microsoft SQL Server practice environment on your machine.
+- ### [Learn Android Application Development](http://bit.ly/2lguIJb)
+   A beginner course on Android Application development
 
-- ### [Introduction to SQL Using TeamSQL](http://bit.ly/2zHmZpZ)
-   Learn the basics of SQL using TeamSQL
+
 
 ## Angular
 - ### [AngularJS For Beginners](http://bit.ly/2ljf1B5)
@@ -108,6 +107,13 @@
 
 - ### [Mastering CSS 3.0 Selectors](http://bit.ly/2li0TIi)
    Empowering your development and design through CSS 3.0 Selectors
+   
+- ### [Mastering Basic CSS Selectors.](http://bit.ly/2liNCPF)
+   Learn & Master the basics of CSS selectors in depth. part of CSSCasts course
+
+- ### [CSS Image filters - The modern web images color manipulation](http://bit.ly/2ljeYoT)
+   Learn to manipulate your any type of Images with super CSS3 image filters to look your Images Super awesome !
+
 
 ## Data structure
 - ### [Data Structure - Part I](http://bit.ly/2yNTeob)
@@ -280,8 +286,11 @@
    
 - ### [First Steps in Java](http://bit.ly/2zGx7PB)
    Get a good grasp on the basics of Java programming language: topics ranging from basic syntax to database operations
+   
+- ### [Crash Course Into JavaFX: The Best Way to make GUI Apps](http://bit.ly/2lkuD75)
+   Learn how to create responsive GUI applications using the most popular Java GUI tookit, and explore the basics of JavaFX   
 
-## javascript
+## Javascript
 - ### [Learn to Program in Javascript: Beginner to Pro](http://bit.ly/2zGoch3)
    Don't just be a good programmer, become a great one, because that is what matters.
 
@@ -495,7 +504,13 @@
    Learn how to write automated end to end tests using Selenium WebDriver and Cucumbe in under an hour
 
 ## SQL Server
+- ### [SQL Server Baby Step: Installation and Configuration](http://bit.ly/2yPOfn1)
+   An absolute beginner’s tutorial to quickly learn how to setup Microsoft SQL Server practice environment on your machine.
+
 ## SQL
+- ### [Introduction to SQL Using TeamSQL](http://bit.ly/2zHmZpZ)
+   Learn the basics of SQL using TeamSQL
+   
 ## Swift
 - ### [Swift from scratch - learn programming on iOS](http://bit.ly/2yPOcHR)
    Learn the basics of new language! Create fast, safe and interactive apps with no programming experience!
@@ -581,16 +596,6 @@
 - ### [Build Your First Website in 1 Week with HTML5 and CSS3](http://bit.ly/2zGtPM8)
    The Fastest Way to Learn HTML & CSS for the Real World
 
-
-
-
-- ### [CSS Image filters - The modern web images color manipulation](http://bit.ly/2ljeYoT)
-   Learn to manipulate your any type of Images with super CSS3 image filters to look your Images Super awesome !
-
-
-
-
-
 - ### [Load Wordpress 400% Faster without any Technical skills](http://bit.ly/2liLMOL)
    Learn how to increase your wordpress blog speed with no technical skills. Even I don't know HTML to be honest.
 
@@ -624,9 +629,6 @@
 
 - ### [How to Start a WordPress Blog - Complete Beginners Guide!](http://bit.ly/2yP9zJ0)
    Create your own blog in 2017 and Start blogging today! No Code, No Html. Complete Drag n Drop Builder.
-
-- ### [Mastering Basic CSS Selectors.](http://bit.ly/2liNCPF)
-   Learn & Master the basics of CSS selectors in depth. part of CSSCasts course
 
 
 
@@ -707,15 +709,6 @@
 
 
 
-
-
-- ### [Clarity of Purpose--Don't Live Life Without It](http://bit.ly/2ljhLhR)
-   An Introductory Course to a Proven Process for Clarifying Your Life Purpose
-
-
-- ### [Learn Android Application Development](http://bit.ly/2lguIJb)
-   A beginner course on Android Application development
-
 - ### [Create App Like Instagram using Parse Server: iOS 11 Swift 4](http://bit.ly/2yPOgY7)
    Parse Server development course. Learn how to create backend (BAAS) apps like Instagram, Twitter using Swift 4 and iOS11
 
@@ -774,13 +767,6 @@
 - ### [Batting Location Charts with Vagrant and MySQL](http://bit.ly/2ljdTxc)
    Use R and MySQL together to create batting location charts from large data sets.
 
-
-
-
-
-
-
-
 - ### [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](http://bit.ly/2yQzjVx)
    Become More Productive Today
 
@@ -790,12 +776,6 @@
 
 - ### [API and Database Testing with Specflow and C#](http://bit.ly/2yV1STO)
    Understanding and building API and database testing from groundup
-
-
-
- ### [Crash Course Into JavaFX: The Best Way to make GUI Apps](http://bit.ly/2lkuD75)
-   Learn how to create responsive GUI applications using the most popular Java GUI tookit, and explore the basics of JavaFX
-
 
 
 
