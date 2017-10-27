@@ -35,6 +35,9 @@
 - ### [Learn Android Application Development](http://bit.ly/2lguIJb)
    A beginner course on Android Application development
 
+- ### [How to use my smartphone - Android Edition](http://bit.ly/2liLXtv)
+   A beginner's guide to Android smartphones, from a to z in mobile help
+
 
 
 ## Angular
@@ -77,6 +80,13 @@
    Learn how to build a RESTful WCF Service in an ASP.NET web application and call its methods with JQuery.
 
 ## C#
+
+- ### [FREE PREVIEW: Learn to Code with Games in C# and Unity](http://bit.ly/2zG9MxC)
+   Create the games of your dreams in C# and Unity through engaging, hands-on learning
+
+- ### [What's New in C# 6, C# 7 and Visual Studio 2017](http://bit.ly/2ySIHtX)
+   Learn new features of C# 6, C# 7 and Visual Studio 2017 on practical examples
+
 ## C++
 - ### [Learn C++ Programming Mini Course - Power of Animation](http://bit.ly/2yO9rcL)
    A Programming Course in C++ language, great for beginners, that will teach you coding from scratch.
@@ -114,6 +124,12 @@
 - ### [CSS Image filters - The modern web images color manipulation](http://bit.ly/2ljeYoT)
    Learn to manipulate your any type of Images with super CSS3 image filters to look your Images Super awesome !
 
+- ### [Build iPhone Apps using Dreamweaver CS6 and Xcode combined.](http://bit.ly/2ySTvrY)
+   Use your knowledge of HTML and CSS to build real iPhone apps. 
+
+- ### [Build Your First Website in 1 Week with HTML5 and CSS3](http://bit.ly/2zGtPM8)
+   The Fastest Way to Learn HTML & CSS for the Real World
+
 
 ## Data structure
 - ### [Data Structure - Part I](http://bit.ly/2yNTeob)
@@ -123,6 +139,10 @@
    Learn Data Structure & Algorithms from absolute scratch. Note: New videos will be added every weekend.
 
 ## HTML
+
+- ### [BlackBerry 10 App Development with HTML5](http://bit.ly/2zGo8xP)
+   Make great apps for a brand new Platform using HTML5
+
 - ### [Introduction to HTML](http://bit.ly/2yQNKcp)
    HTML is one of the major building blocks for creating web applications and websites.
 
@@ -223,7 +243,18 @@
 
 - ### [Introductory To HTML - Create Your Very First Webpage.](http://bit.ly/2yPo13W)
    Learn the basics of HTML and create your very first webpage with just HTML
+   
+- ### [Build iPhone Apps using Dreamweaver CS6 and Xcode combined.](http://bit.ly/2ySTvrY)
+   Use your knowledge of HTML and CSS to build real iPhone apps. 
 
+- ### [Build Your First Website in 1 Week with HTML5 and CSS3](http://bit.ly/2zGtPM8)
+   The Fastest Way to Learn HTML & CSS for the Real World
+   
+- ### [Quick Windows [Win8] App Development - For Busy People Only](http://bit.ly/2yPt4kE)
+   Learn to build a beautiful full app in minimal timeLeverage open source, HTML5/JavaScript and tons more!
+
+- ### [Learn Construct 2: Creating a Pixel Platformer in HTML5!](http://bit.ly/2lk2YTM)
+   Master Construct 2 Quickly Using this Course! By the end, you will have gone from beginner to advanced in no time !
 
 ## Ionic
 - ### [Create a CRUD Application with Ionic 3 and Firebase](http://bit.ly/2yUbsqf)
@@ -233,6 +264,9 @@
 - ### [Practice Java by Building Projects](http://bit.ly/2lijAeJ)
    Ultimate Java interview prep course! 100% focused on applying object-oriented design in real-world applications
    
+- ### [Selenium WebDriver Training with Java Basics](http://bit.ly/2yUQHun)
+   A short and simple course to get started with Selenium automation and learn basics of other integrated APIs   
+
 - ### [JSP (Java server pages) and servlet basics - Free course](http://bit.ly/2lkNhfm)
    A JSP (Java server pages) and servlet basics course for beginners
 
@@ -281,6 +315,9 @@
 - ### [Java Programming Basics](http://bit.ly/2lj1qty)
    Learn to program! Let's walk through some simple examples and I'll explain everything along the way.
 
+- ### [Java - The Beginners Series](http://bit.ly/2yOv4tL)
+   An overview of all the core concepts in Java to build a strong foundation in your computer programming skills
+
 - ### [First Lesson to ZK Framework](http://bit.ly/2ljg9Vg)
    Understand the basics of ZK Java Web Framework and build your first Web GUI
    
@@ -290,6 +327,21 @@
 - ### [Crash Course Into JavaFX: The Best Way to make GUI Apps](http://bit.ly/2lkuD75)
    Learn how to create responsive GUI applications using the most popular Java GUI tookit, and explore the basics of JavaFX   
 
+- ### [Learn how to use all Java keywords](http://bit.ly/2yP9ftX)
+   Learn what each of the keywords are for and how to use them in your programs.
+
+- ### [Eclipse IDE for Beginners: Increase Your Java Productivity](http://bit.ly/2lirrJl)
+   This course delivers the step-by-step guidance to help you master the core topics and techniques with Eclipse.
+
+- ### [Decoding AP Computer Science A](http://bit.ly/2lkNgbi)
+   Ace AP Computer Science A and get an Introduction to Java
+
+- ### [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](http://bit.ly/2yQzjVx)
+   Become More Productive Today
+
+- ### [Data Structures in Java for Noobs (Lite Edition)](http://bit.ly/2yPOfU3)
+   Data Structures Made Simple With Step by Step Instructions and Diagrams
+   
 ## Javascript
 - ### [Learn to Program in Javascript: Beginner to Pro](http://bit.ly/2zGoch3)
    Don't just be a good programmer, become a great one, because that is what matters.
@@ -326,6 +378,17 @@
 - ### [Leveling up to ES6](http://bit.ly/2yP9Ag2)
    Level up your javascript knowledge with the latest features provided in ES6
 
+- ### [MEAN Stack For Web Developers: Build Websites on Javascript](http://bit.ly/2zGo9BT)
+   Use cutting edge tools to build fast, robust Javascript based web applications with MongoDB, Express, Angular and Node
+
+- ### [Start 3D GIS Web Development in JavaScript](http://bit.ly/2ljh480)
+   An easy way to deploy GIS 3D map to web with or without coding.
+
+- ### [Quick Windows [Win8] App Development - For Busy People Only](http://bit.ly/2yPt4kE)
+   Learn to build a beautiful full app in minimal timeLeverage open source, HTML5/JavaScript and tons more!
+
+- ### [Making Games With Phaser 2.X](http://bit.ly/2liLXcT)
+   Learn the fundamentals of JavaScript And Phaser!
 
 ## Jquery
 - ### [Learn to Use jQuery UI Widgets](http://bit.ly/2yUbvCr)
@@ -348,6 +411,9 @@
 ## MySQL
 - ### [Java Database Connection: JDBC and MySQL](http://bit.ly/2yPoyms)
    Learn how to connect to a MySQL database with Java JDBC
+   
+- ### [PHP & MYSQLi Complete Guide for Beginners](http://bit.ly/2yPOezt)
+   PHP & MYSQLi Complete Course
 
 ## NodeJs
 - ### [Node JS Training and Fundamentals](http://bit.ly/2ljeYVV)
@@ -406,7 +472,14 @@
 - ### [Build CRUD Application - PHP & Mysql](http://bit.ly/2yPo0wU)
    Create Todo list app with pagination
 
+- ### [Learn PHP 7 This Way to Rise Above & Beyond Competition!](http://bit.ly/2zGobcZ)
+   This course is based on php manual! We cover namespaces, operators, types, variables, functions, OOP and many more!
 
+- ### [Appzio on-boarding](http://bit.ly/2yPo3c4)
+   Native mobile applications with just PHP
+ 
+- ### [PHP & MYSQLi Complete Guide for Beginners](http://bit.ly/2yPOezt)
+   PHP & MYSQLi Complete Course
 
 ## python
 - ### [Python - Learn how to read write and manipulate Excel files](http://bit.ly/2lkvmoP)
@@ -451,6 +524,27 @@
 ## R
 - ### [R Programming For Absolute Beginners](http://bit.ly/2zIPO54)
    Learn the basics of writing code in R - your first step to become a data scientist
+   
+- ### [Learn Data Science With R Part 1 of 10](http://bit.ly/2ljeBut)
+   Data Science with R Basics
+   
+- ### [R Basics - R Programming Language Introduction](http://bit.ly/2yOtCYl)
+   Learn the essentials of R Programming - R Beginner Level!
+   
+- ### [R, ggplot, and Simple Linear Regression](http://bit.ly/2yPa0TE)
+   Begin to use R and ggplot while learning the basics of linear regression
+
+- ### [Polynomial Regression, R, and ggplot](http://bit.ly/2ljqfoV)
+   Learn how to write and graph functions in R and how to fit polynomials to data sets.
+
+- ### [Training Sets, Test Sets, R, and ggplot](http://bit.ly/2lk44Po)
+   How to evaluate regression model performance in R
+
+- ### [Baseball Data Wrangling with Vagrant, R, and Retrosheet](http://bit.ly/2zHwhCr)
+   Analytics with the Chadwick tools, dplyr, and ggplot.
+
+- ### [Batting Location Charts with Vagrant and MySQL](http://bit.ly/2ljdTxc)
+   Use R and MySQL together to create batting location charts from large data sets.
 
 ## React
 - ### [React basic in just 1 hour](http://bit.ly/2liNIqv)
@@ -511,7 +605,7 @@
 - ### [Introduction to SQL Using TeamSQL](http://bit.ly/2zHmZpZ)
    Learn the basics of SQL using TeamSQL
    
-## Swift
+## Swift / ios
 - ### [Swift from scratch - learn programming on iOS](http://bit.ly/2yPOcHR)
    Learn the basics of new language! Create fast, safe and interactive apps with no programming experience!
 
@@ -565,6 +659,19 @@
 - ### [Swift Programming For Beginners - No Programming Experience](http://bit.ly/2yPv38A)
    Learn Swift for iPhone iOS development, no programming development experience is required. Swift for complete beginners
 
+ - ### [Start 3D GIS iOS App Development in Objective C](http://bit.ly/2yOlQO0)
+   Create your own awesome 3D map app in such an easy way!
+
+- ### [Create App Like Instagram using Parse Server: iOS 11 Swift 4](http://bit.ly/2yPOgY7)
+   Parse Server development course. Learn how to create backend (BAAS) apps like Instagram, Twitter using Swift 4 and iOS11
+
+- ### [Create iPhone Apps from Scratch with iOS7 – Starter Course](http://bit.ly/2yOgYZ9)
+   Use a Mac or PC to create your first iPhone app using Xcode 5. No programming experience required to learn Objective C
+
+- ### [Become an iOS Developer from Scratch](http://bit.ly/2yOmXNG)
+   A step-by-step iOS development tutorial for aspiring developers with no coding or Objective-C experience.
+
+
 ## Unit Testing
 - ### [JUnit Tutorial for Beginners - Learn Java Unit Testing](http://bit.ly/2yP8MIe)
    JUnit tutorial for Beginners with examples
@@ -578,57 +685,40 @@
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-- ### [BlackBerry 10 App Development with HTML5](http://bit.ly/2zGo8xP)
-   Make great apps for a brand new Platform using HTML5
-
-
-- ### [Build iPhone Apps using Dreamweaver CS6 and Xcode combined.](http://bit.ly/2ySTvrY)
-   Use your knowledge of HTML and CSS to build real iPhone apps. 
-
-
-- ### [Quick Windows [Win8] App Development - For Busy People Only](http://bit.ly/2yPt4kE)
-   Learn to build a beautiful full app in minimal timeLeverage open source, HTML5/JavaScript and tons more!
-
-- ### [Build Your First Website in 1 Week with HTML5 and CSS3](http://bit.ly/2zGtPM8)
-   The Fastest Way to Learn HTML & CSS for the Real World
-
-- ### [Load Wordpress 400% Faster without any Technical skills](http://bit.ly/2liLMOL)
-   Learn how to increase your wordpress blog speed with no technical skills. Even I don't know HTML to be honest.
-
-- ### [MEAN Stack For Web Developers: Build Websites on Javascript](http://bit.ly/2zGo9BT)
-   Use cutting edge tools to build fast, robust Javascript based web applications with MongoDB, Express, Angular and Node
-
-
-- ### [Learn PHP 7 This Way to Rise Above & Beyond Competition!](http://bit.ly/2zGobcZ)
-   This course is based on php manual! We cover namespaces, operators, types, variables, functions, OOP and many more!
+## WordPress
 
 - ### [Learn how to create a WordPress theme using Pinegrow](http://bit.ly/2yUbTkn)
    From your HTML template to a fully functional WordPress theme.
 
+- ### [How to Start a WordPress Blog - Complete Beginners Guide!](http://bit.ly/2yP9zJ0)
+   Create your own blog in 2017 and Start blogging today! No Code, No Html. Complete Drag n Drop Builder.
+
+- ### [Load Wordpress 400% Faster without any Technical skills](http://bit.ly/2liLMOL)
+   Learn how to increase your wordpress blog speed with no technical skills. Even I don't know HTML to be honest.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- ### [Learn Construct 2: Creating a Pixel Platformer in HTML5!](http://bit.ly/2lk2YTM)
-   Master Construct 2 Quickly Using this Course! By the end, you will have gone from beginner to advanced in no time ! 
 
 
 
 
-- ### [Making Games With Phaser 2.X](http://bit.ly/2liLXcT)
-   Learn the fundamentals of JavaScript And Phaser!
+
+
+
+
+
+
+
+
+
+
 
 
 - ### [Setup OS X development environments ](http://bit.ly/2lj04is)
    This course covers the easiest way to setup multiple environment stacks. Such as Java, Ruby, DB's and more
 
-- ### [Start 3D GIS Web Development in JavaScript](http://bit.ly/2ljh480)
-   An easy way to deploy GIS 3D map to web with or without coding.
 
-- ### [How to Start a WordPress Blog - Complete Beginners Guide!](http://bit.ly/2yP9zJ0)
-   Create your own blog in 2017 and Start blogging today! No Code, No Html. Complete Drag n Drop Builder.
 
 
 
@@ -644,8 +734,6 @@
 - ### [Oracle 11gR2 RAC - Quick 2-node RAC Deployment Guide](http://bit.ly/2yPo3J6)
    Learn to quickly setup 2-node RAC using VirtualBox, configure shared storage, Install 11gR2 grid and RAC software
 
-- ### [Appzio on-boarding](http://bit.ly/2yPo3c4)
-   Native mobile applications with just PHP
 
 - ### [From 0 to Twitter: Learn how to create the Web of Tomorrow](http://bit.ly/2li0SnI)
    Learn How to Build the Web of Tomorrow, using HTML and Javascript, with the Bootstrap and Meteor Frameworks, from zero.
@@ -669,23 +757,13 @@
 
 
 
-- ### [PHP & MYSQLi Complete Guide for Beginners](http://bit.ly/2yPOezt)
-   PHP & MYSQLi Complete Course
 
 
-- ### [How to use my smartphone - Android Edition](http://bit.ly/2liLXtv)
-   A beginner's guide to Android smartphones, from a to z in mobile help
 
-- ### [Become an iOS Developer from Scratch](http://bit.ly/2yOmXNG)
-   A step-by-step iOS development tutorial for aspiring developers with no coding or Objective-C experience.
+
 
 - ### [Game Development Crash Course w/Corona SDK: You Can Do It!](http://bit.ly/2yPPK4D)
    Impress your family and friends with your own iOS & Android mobile game in this Game Development Course for Beginners!
-
-
-- ### [Create iPhone Apps from Scratch with iOS7 – Starter Course](http://bit.ly/2yOgYZ9)
-   Use a Mac or PC to create your first iPhone app using Xcode 5. No programming experience required to learn Objective C
-
 
 
 
@@ -703,14 +781,7 @@
 
 
 
-- ### [Start 3D GIS iOS App Development in Objective C](http://bit.ly/2yOlQO0)
-   Create your own awesome 3D map app in such an easy way!
-
-
-
-
-- ### [Create App Like Instagram using Parse Server: iOS 11 Swift 4](http://bit.ly/2yPOgY7)
-   Parse Server development course. Learn how to create backend (BAAS) apps like Instagram, Twitter using Swift 4 and iOS11
+-
 
 - ### [Learning Apache Hadoop EcoSystem- Hive](http://bit.ly/2yO22dt)
    Learn Apache Hive and Start working with SQL queries which is on Data which is in Hadoop
@@ -721,8 +792,7 @@
    Build your own webserver and deploy a website within one hour on AWS
 
 
-- ### [Selenium WebDriver Training with Java Basics](http://bit.ly/2yUQHun)
-   A short and simple course to get started with Selenium automation and learn basics of other integrated APIs
+
 
 - ### [New CCNAx 200-125 Routing and Switching](http://bit.ly/2zGn9h3)
    Includes everything you will need to fully prepare for your new CCNA R/S certification
@@ -732,46 +802,12 @@
 - ### [Information Retrieval and Mining Massive Data Sets](http://bit.ly/2lk42ae)
    Learn various techniques to build a Google scale Information Retrieval System.
 
-- ### [Java - The Beginners Series](http://bit.ly/2yOv4tL)
-   An overview of all the core concepts in Java to build a strong foundation in your computer programming skills
 
 - ### [Get in touch with Tricentis Tosca Testsuite](http://bit.ly/2lk45Ts)
    This course guides you through the world of software test and test automation with Tosca. Learn testing with a new tool.
 
-- ### [R Basics - R Programming Language Introduction](http://bit.ly/2yOtCYl)
-   Learn the essentials of R Programming - R Beginner Level!
-
-- ### [Learn how to use all Java keywords](http://bit.ly/2yP9ftX)
-   Learn what each of the keywords are for and how to use them in your programs.
-
-- ### [Eclipse IDE for Beginners: Increase Your Java Productivity](http://bit.ly/2lirrJl)
-   This course delivers the step-by-step guidance to help you master the core topics and techniques with Eclipse.
-
-- ### [Decoding AP Computer Science A](http://bit.ly/2lkNgbi)
-   Ace AP Computer Science A and get an Introduction to Java
 
 
-
-- ### [R, ggplot, and Simple Linear Regression](http://bit.ly/2yPa0TE)
-   Begin to use R and ggplot while learning the basics of linear regression
-
-- ### [Polynomial Regression, R, and ggplot](http://bit.ly/2ljqfoV)
-   Learn how to write and graph functions in R and how to fit polynomials to data sets.
-
-- ### [Training Sets, Test Sets, R, and ggplot](http://bit.ly/2lk44Po)
-   How to evaluate regression model performance in R
-
-- ### [Baseball Data Wrangling with Vagrant, R, and Retrosheet](http://bit.ly/2zHwhCr)
-   Analytics with the Chadwick tools, dplyr, and ggplot.
-
-- ### [Batting Location Charts with Vagrant and MySQL](http://bit.ly/2ljdTxc)
-   Use R and MySQL together to create batting location charts from large data sets.
-
-- ### [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](http://bit.ly/2yQzjVx)
-   Become More Productive Today
-
-- ### [Data Structures in Java for Noobs (Lite Edition)](http://bit.ly/2yPOfU3)
-   Data Structures Made Simple With Step by Step Instructions and Diagrams
 
 
 - ### [API and Database Testing with Specflow and C#](http://bit.ly/2yV1STO)
@@ -779,17 +815,11 @@
 
 
 
-- ### [What's New in C# 6, C# 7 and Visual Studio 2017](http://bit.ly/2ySIHtX)
-   Learn new features of C# 6, C# 7 and Visual Studio 2017 on practical examples
 
 - ### [Learn Test Automation with Boozang](http://bit.ly/2yV0wsf)
    Learn test automation in an afternoon without any need for programming
 
 
-
-
-- ### [FREE PREVIEW: Learn to Code with Games in C# and Unity](http://bit.ly/2zG9MxC)
-   Create the games of your dreams in C# and Unity through engaging, hands-on learning
 
 
 
@@ -802,8 +832,7 @@
 - ### [E-R Diagrams and modeling for beginners](http://bit.ly/2zG9JSs)
    This is data modeling to build extraordinary database for web and mobile applications.
 
-- ### [Learn Data Science With R Part 1 of 10](http://bit.ly/2ljeBut)
-   Data Science with R Basics
+
 
 
 - ### [CCNA R&S Labs: Learn by Scenarios](http://bit.ly/2lijzaF)
