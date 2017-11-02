@@ -4,6 +4,10 @@ This is the ultimate collections of free online video tutorials to learn differe
 
 >  Please '⭐' this repository to get updates when new courses will be added to the list
 
+Based on response and love from community, we are launching site to provide more updates.
+
+> Join us on [![Foo](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-64.png)](https://www.producthunt.com/upcoming/quick-code) to get early access 
+
 
 
 
@@ -19,13 +23,7 @@ You can find the best tutorials and courses for the web, mobile,  database manag
 
 
 ### Follow For More Updates
- [<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-64.png" >](<a href="facebook.com"></a>)
-
-<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-64.png" >
-
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-64.png" >
-
-<img src="https://cdn0.iconfinder.com/data/icons/picons-social/57/108-medium-64.png" >
+[![Foo](https://cdn0.iconfinder.com/data/icons/picons-social/57/108-medium-64.png)](https://medium.com/quick-code)[![Foo](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-64.png)](https://www.producthunt.com/upcoming/quick-code)[![Foo](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-64.png)](https://www.facebook.com/Quick-Code-1493528657352302/)  [![Foo](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-64.png)](https://twitter.com/quickcode17)  
 
 
 ### Sources:- 
