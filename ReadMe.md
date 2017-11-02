@@ -19,7 +19,7 @@ You can find the best tutorials and courses for the web, mobile,  database manag
 
 
 ### Follow For More Updates
-<a href="facebook.com"> <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-64.png" ></a>
+ [<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-64.png" >](<a href="facebook.com"></a>)
 
 <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-64.png" >
 
