@@ -3,9 +3,7 @@ This is the ultimate collections of free online video tutorials to learn differe
 
 
 >  Please '⭐' this repository to get updates when new courses will be added to the list
-
-Based on response and love from community, we are launching site to provide more updates.
-
+> Based on response and love from community, we are launching site to provide more courses.
 > Join us on [![Foo](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-32.png)](https://www.producthunt.com/upcoming/quick-code) to get early access 
 
 
