@@ -845,3 +845,4 @@
 - ### [Apache Spark with Scala - Mastering Big Data!](http://bit.ly/2yOBf0V)
    Learn analyzing big data with Apache Spark and Scala by 12+ hands-on examples
 
+Notes: We are a part of the udemy affiliate program.
